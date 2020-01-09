@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21428" started-at="2020-01-08T23:11:55 EST" finished-at="2020-01-08T23:12:16 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21428" started-at="2020-01-08T23:11:55 EST" finished-at="2020-01-08T23:12:16 EST">
+      <class name="com.ipivot.CarsProject.DataDrivenTest.TestCases">
+        <test-method status="PASS" signature="reportSetUp()[pri:0, instance:com.ipivot.CarsProject.DataDrivenTest.TestCases@5e853265]" name="reportSetUp" is-config="true" duration-ms="160" started-at="2020-01-08T23:11:55 EST" finished-at="2020-01-08T23:11:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetUp -->
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:com.ipivot.CarsProject.DataDrivenTest.TestCases@5e853265]" name="testSetUp" is-config="true" duration-ms="11201" started-at="2020-01-08T23:11:55 EST" finished-at="2020-01-08T23:12:06 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.ipivot.CarsProject.DataDrivenTest.TestCases@5e853265]" name="testcase1" duration-ms="1822" started-at="2020-01-08T23:12:06 EST" finished-at="2020-01-08T23:12:08 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.ipivot.CarsProject.DataDrivenTest.TestCases@5e853265]" name="getResult" is-config="true" duration-ms="563" started-at="2020-01-08T23:12:08 EST" finished-at="2020-01-08T23:12:09 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testcase1 status=SUCCESS method=TestCases.testcase1()[pri:0, instance:com.ipivot.CarsProject.DataDrivenTest.TestCases@5e853265] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:com.ipivot.CarsProject.DataDrivenTest.TestCases@5e853265]" name="testSetUp" is-config="true" duration-ms="5610" started-at="2020-01-08T23:12:09 EST" finished-at="2020-01-08T23:12:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:com.ipivot.CarsProject.DataDrivenTest.TestCases@5e853265]" name="testcase2" duration-ms="1317" started-at="2020-01-08T23:12:14 EST" finished-at="2020-01-08T23:12:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.ipivot.CarsProject.DataDrivenTest.TestCases@5e853265]" name="getResult" is-config="true" duration-ms="74" started-at="2020-01-08T23:12:16 EST" finished-at="2020-01-08T23:12:16 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testcase2 status=SUCCESS method=TestCases.testcase2()[pri:0, instance:com.ipivot.CarsProject.DataDrivenTest.TestCases@5e853265] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ipivot.CarsProject.DataDrivenTest.TestCases@5e853265]" name="teardown" is-config="true" duration-ms="634" started-at="2020-01-08T23:12:16 EST" finished-at="2020-01-08T23:12:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ipivot.CarsProject.DataDrivenTest.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
